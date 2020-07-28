@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Itrack Sales</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="prepnew">Prep &amp; Load</string>
+    <string name="Tag_Cancel">Cancel</string>
+    <string name="wentwrong">It seems the server did not respond. Can you please try again one more time.</string>
+
+    <string name="Tag_Ok">Ok</string>
+    <string name="Tag_Yes">Yes</string>
+    <string name="Tag_Skip">Skip</string>
+
+</resources>
